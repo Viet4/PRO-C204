@@ -1,2 +1,2 @@
 # C204-project-template
-template with assets.
+i somehow figured how to get Pillow to work
