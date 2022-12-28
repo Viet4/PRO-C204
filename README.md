@@ -1,2 +1,2 @@
-# PRO-C204
-TAMBOLA STAGE -1
+# C204-project-template
+template with assets.
